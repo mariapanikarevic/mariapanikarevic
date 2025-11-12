@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:mariapanikarevic@gmail.com" target="_blank">
+  <a href="mailto:mariapanikarevic@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://t.me/mpanikarevich" target="_blank">
