@@ -28,3 +28,15 @@
 <img src="images/smile.png" width="15" height="15" style="vertical-align: -10px; margin-right: 12px;"> Ответственность за критически важные проекты
 
 Сейчас заканчиваю курс в Яндекс Практикуме и ищу возможность начать карьеру в IT.
+
+## Инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://datalens.tech/favicon.ico" title="DataLens" alt="DataLens" width="40" height="40"/>&nbsp;
+  <img src="https://clickhouse.com/favicon.ico" title="ClickHouse" alt="ClickHouse" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" title="PySpark" alt="PySpark" width="40" height="40"/>
+</div>
