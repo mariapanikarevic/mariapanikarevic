@@ -5,14 +5,14 @@
 ###
 
 <div align="center">
-<a href="mailto:mariapanikarevic@gmail.com" style="text-decoration: none; display: inline-block;">
+  <a href="mailto:mariapanikarevic@gmail.com" style="text-decoration: none; display: inline-block;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" 
          alt="Email" 
          width="32" 
          height="32"
          style="vertical-align: middle; border-radius: 5px;">
-</a>  
-  <a href="https://t.me/@mpanikarevich" target="_blank">
+  </a>  
+  <a href="https://t.me/mpanikarevich" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
